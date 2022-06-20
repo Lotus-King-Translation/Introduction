@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">Transifex Worfklow Template</h3>
+<h3 align="center">Introduction</h3>
 
 <p align="center">
   
@@ -22,7 +22,7 @@
 
 ## :floppy_disk: Description
 
-A template repository for setting up Transifex translation workflow. Replace the content in this section with the title of your project.
+Translation for ངལ་གསོ་སྐོར་གསུམ་གྱི་སྤྱི་དོན་ལེགས་བཤད་རྒྱ་མཚོ། ཀུན་མཁྱེན་ངག་གི་དབང་པོ།.
 
 ## :closed_book: Docs
 
