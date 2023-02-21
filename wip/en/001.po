@@ -9972,7 +9972,7 @@ msgstr "In the White Skull Mountain, the neck of Earth,"
 
 msgctxt "74c5929325534e19aa160bd5f0310b30"
 msgid "། ཨོ་རྒྱན་ རྫོང་ ཞེས་ བྱ་བ་␣འི་ གནས་ སུ་ བཀོད །"
-msgstr "In the place known as Ogyen fortress, was wrote down. "
+msgstr "In the place known as Ogyen fortress, was written down. "
 
 msgctxt "356615f1861b4ba080ad0d2c1a71ab4e"
 msgid "། དགེ་བ་ འདི་ ཡིས་ བདག་ དང་ འགྲོ་བ་ ཀུན །"
