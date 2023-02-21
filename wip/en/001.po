@@ -7140,7 +7140,7 @@ msgctxt "5e89f06ee7854eae95d15989dea2e896"
 msgid "། ཞེས་ སོ །"
 msgstr ""
 "It was said so.\n"
-"If one doesn't know extremely many buddhadharmas perfectly, he won’t obtain ten powers of tathagata, such as fearlessness and similar qualities, the four individual right cognitions, and so on. He won’t obtain the dharma of the great enlightenment. Therefore, he does not have the power to examine the enumerations of dharma gates entirely, the realm of sugatagarbha, and others."
+"If one doesn't know extremely many buddhadharmas perfectly, he won’t obtain ten powers of tathagata, such as fearlessness and similar qualities, the four individual true vidyas, and so on. He won’t obtain the dharma of the great enlightenment. Therefore, he does not have the power to examine the enumerations of dharma gates entirely, the realm of sugatagarbha, and others."
 
 msgctxt "b87e3d0f2c054099b65252141aaaa39b"
 msgid ""
