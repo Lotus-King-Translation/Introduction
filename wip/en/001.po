@@ -8070,7 +8070,7 @@ msgstr "It was said so."
 
 msgctxt "b57374c5dcdd4fe6bdf11eab04bca14f"
 msgid "སྡུད་པ་ ལ་␣ས །"
-msgstr "From Condensed Perfection of Wisdom Sutra:"
+msgstr "From the Condensed Prajnaparamita Ghatas:"
 
 msgctxt "70daef4bb8014fa2bdf5f186f6d00544"
 msgid "ཤེས་རབ་ ཀྱིས་ ནི་ ཆོས་ ཀྱི་ རང་བཞིན་ ཡོངས་ཤེས་ ནས །"
