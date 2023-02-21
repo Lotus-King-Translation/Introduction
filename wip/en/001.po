@@ -9979,7 +9979,7 @@ msgstr "By these merits self and all the migrators "
 
 msgctxt "39301a1a17f04e70972c26a80a11ba69"
 msgid "། དམ་ཆོས་ རིན་ཆེན་ ཤིང་རྟ་ མཆོག་ ཞུགས་ ཏེ །"
-msgstr "Enter the precious sacred dharma, the supreme chariot, "
+msgstr "Will enter the precious sacred dharma, the supreme chariot, "
 
 msgctxt "091686b0e7214b48aebb883f6f70e4db"
 msgid "། འཁོར་བ་␣འི་ མྱ་ངམ་ཐང་ ལ་␣ས་ རབ་ བརྒལ་ ནས །"
