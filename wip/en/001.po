@@ -9848,7 +9848,7 @@ msgstr "Expression of the offering is not fruitless. "
 
 msgctxt "92b7943f75fe4b3f98428f1383a643e4"
 msgid "། སྟོན་པ་ དང་ ནི་ བསྟན་བཅོས་ ལ །"
-msgstr "In the teacher and the shastra"
+msgstr "In the teacher and the shastra -"
 
 msgctxt "47b6ce7bf6614885b4264a2c59d74541"
 msgid "། དད་འདུན་ བསྐྱེད་པ་␣ར་ བྱ་ ཕྱིར་ རོ །"
