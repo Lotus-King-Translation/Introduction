@@ -10018,7 +10018,7 @@ msgctxt "74051692dcdc48d8ae1e23f202c44a07"
 msgid ""
 "ཡུལ་ བྱང་ཕྱོགས་ ཀྱི་ རྒྱུད་ གངས་རི་ ར་བ་␣འི་ སྐྱེད་མོས་ཚལ་ དུ་ སྐྱེས་པ །"
 msgstr ""
-"was composed in the northern region in the gardens of the snow mountains. "
+"was produced in the northern region in the gardens of the snow mountains. "
 
 msgctxt "46afab79951c445f9189ed3cdcb02134"
 msgid ""
