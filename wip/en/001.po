@@ -9735,7 +9735,7 @@ msgstr ""
 
 msgctxt "126a6bc119484017a49d65d86ced5e68"
 msgid "། འགྲེལ་པ་ དང་ ཤིང་རྟ་ ནི་ སྔར་བཞིན་ ནོ །"
-msgstr "2.3.1.1.3. How it was named"
+msgstr "2.3.1.1.3. How it was named."
 
 msgctxt "bfe633adf5c84181a926d27b1b7a50d8"
 msgid ""
