@@ -9983,7 +9983,7 @@ msgstr "Enter the precious sacred dharma, the supreme chariot, "
 
 msgctxt "091686b0e7214b48aebb883f6f70e4db"
 msgid "། འཁོར་བ་␣འི་ མྱ་ངམ་ཐང་ ལ་␣ས་ རབ་ བརྒལ་ ནས །"
-msgstr "And cross over the desert of the sorrow of samsara. "
+msgstr "And cross over the fearsome desert of of samsara. "
 
 msgctxt "f3b4a02ec80445369e20c67af73b7aa1"
 msgid "། ཐར་པ་␣འི་ གྲོང་ དུ་ དགའ་སྟོན་ འཕེལ་བ་␣ར་ ཤོག"
