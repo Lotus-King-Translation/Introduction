@@ -10025,7 +10025,7 @@ msgid ""
 "བདེ་བ་␣ར་ གཤེགས་པ་␣འི་ གསུང་རབ་ ཀྱི་ གནས་ ལ་ མང་ དུ་ ཐོས་པ་␣འི་ ཆོས་ སྨྲ་བ་ "
 "ཀུན་མཁྱེན་ ངག་ གི་ དབང་པོ་␣ས་ སྦྱར་བ་ རྫོགས་ སོ །"
 msgstr ""
-"The composition of the well-learned in the scriptures of the Sugata, the "
+"The composition by the well-learned in the scriptures of the Sugata, the "
 "dharma speaker Longchenpa, is over."
 
 msgctxt "05f9685e163b4ac892db757c1150c8ad"
