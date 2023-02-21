@@ -9758,7 +9758,7 @@ msgctxt "4edfc45e72a54d7293bd772514affab7"
 msgid ""
 "། ཕྱག་ ལ་ གཉིས་ ལ་␣ས །  མདོ་␣ར་ བསྟན་པ་ ནི །  དཔལ་ རྡོ་རྗེ་ སེམས་དཔའ་ ལ་ "
 "ཕྱག་ འཚལ་ ལོ་ ཞེས་པ་␣ས །  དཔལ་ ནི་ ལོངས་སྐུ་ ངེས་པ་ ལྔ་ལྡན །"
-msgstr "2.3.1.2.1. Brief explanation"
+msgstr "2.3.1.2.1. Brief explanation."
 
 msgctxt "5f6e51940fcf4b62a134ba2fb5dec723"
 msgid ""
