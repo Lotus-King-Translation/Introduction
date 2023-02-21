@@ -5347,7 +5347,7 @@ msgstr "From the shoulder - the Noble Shoulder Tantra. "
 
 msgctxt "2f4b2482cf794594855d4c6b231aa8a5"
 msgid "ཐུགས་ལས་ རིག་པ་ མཆོག"
-msgstr "From the mind - Supreme Knowledge Tantra. "
+msgstr "From the mind - Supreme Rigpa Tantra. "
 
 msgctxt "161ae3c4e40a4b0382d80b9c9119ca67"
 msgid "། ཕྱག་ལས་ ཕྱག་ ན་ རྡོ་རྗེ་ དབང་ བསྐུར་བ །"
