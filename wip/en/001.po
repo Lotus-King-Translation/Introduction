@@ -9917,7 +9917,8 @@ msgstr "{I} makes excellent supreme vehicle graceful,"
 
 msgctxt "3e8c865648744135a5cc3bb37f88d99b"
 msgid "། མེ་ཏོག་ཕྲེང་བ་ མ་ བརྙིངས་ གསལ་བ་␣ར་ སྤེལ །"
-msgstr "The garland of flowers not to become old and to be clearly spread."
+msgstr ""
+"And the garland of flowers not to become old and to be clearly spread."
 
 msgctxt "38fff1e74f6e49419ad76b0a8c181e7b"
 msgid "། ཐོས་པ་␣འི་ སྤྲིན་ཆེན་ རབ་ཏུ་ བཟང་པོ་ ལ་␣ས །"
