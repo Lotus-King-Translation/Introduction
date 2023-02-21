@@ -3704,7 +3704,7 @@ msgstr ""
 
 msgctxt "8d40b9900eef4c82ace8fdd6c2a98637"
 msgid "ཐ་མ་ རིག་པ་␣འི་ གནས་ ལྔ་ ཤེས་པ་␣འོ །"
-msgstr "The inferior is the one who knows five fields of knowledge. "
+msgstr "The inferior is the one who knows five fields of vidya. "
 
 msgctxt "eeecf0756afb4c678688421bb4a59bb1"
 msgid ""
