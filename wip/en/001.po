@@ -9783,7 +9783,7 @@ msgstr ""
 "Vajrasattva Mahasattva,\n"
 "All the vajra tathagatas,\n"
 "The first Vajra - Samantabhadra,\n"
-"I bow to Vajrapani."
+"[I] bow to Vajrapani."
 
 msgctxt "c9a1e59c9e21476ab1c53a27d125f1ed"
 msgid "། རྡོ་རྗེ་ དེ་བཞིན་ གཤེགས་པ་ ཀུན །"
