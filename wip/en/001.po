@@ -9644,7 +9644,7 @@ msgctxt "828130315ba647449256efccef84b574"
 msgid ""
 "། བརྩམ་པ་␣ར་ དམ་བཅའ་བ་ ནི །  སྐལ་བཟང་ ལ་སོགས་པ་ སྟེ །  བྱ་བ་ རང་བཞིན་ "
 "བརྗོད་པ་␣འི་ རྒྱན་ གྱིས་ བསྟན་བཅོས་ ཀྱི་ དོན་ འགྲོལ་ བར་ ཁ་␣ས་ བླངས་པ་␣འོ །"
-msgstr "2.3. The third general meaning"
+msgstr "2.3. The third general meaning, [Finding Rest From Illusion]."
 
 msgctxt "7f0a97611fc3408cb67757fc832999b8"
 msgid ""
