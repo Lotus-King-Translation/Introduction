@@ -9515,7 +9515,7 @@ msgstr "From Reciting the Names of Manjushri:"
 
 msgctxt "1c7f938e5c0f423c99a32d3e05edf653"
 msgid "འདི་ ནི་ རྣམ་དག་ ལེགས་པ་␣འི་ ལམ ། ། ཞེས་ གསུངས་པ་ བཞིན་ ནོ །"
-msgstr "This is the pure excellent way!"
+msgstr "This is the path of complete purity and excellence."
 
 msgctxt "3ae162cf98484a18bfc70ad7bb63bb48"
 msgid ""
