@@ -9388,7 +9388,7 @@ msgid ""
 msgstr ""
 "Britti is drelpa - \"commentary\", bishuddha is namdag - \"completely "
 "pure\", kathi is shing - \"wood\", ghorta is ta - \"horse\", nama is "
-"shechawa - \"name\". "
+"shechawa - \"named\". "
 
 msgctxt "ffdc453cc14441cc8b8f6f19843562ff"
 msgid ""
