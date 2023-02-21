@@ -9791,7 +9791,7 @@ msgstr "It was said like this."
 
 msgctxt "82b9fafde6244d50a8bc30ffd1d2b56d"
 msgid "། རྡོ་རྗེ་ དང་པོ་ ཀུན་ དུ་ བཟང་ །"
-msgstr "2.3.1.2.2. Extensive explanation"
+msgstr "2.3.1.2.2. Extensive explanation."
 
 msgctxt "14cb126e564d45f190ecde5015f25a86"
 msgid "། ཕྱག་ འཚལ་ ཕྱག་ ན་ རྡོ་རྗེ་ ལ་␣འོ །"
