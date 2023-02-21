@@ -9927,7 +9927,7 @@ msgstr "From the extremely good big cloud of learning"
 msgctxt "1df842dc6d714723b77291a201690686"
 msgid "། ལེགས་བཤད་ འབྲུག་སྒྲ་ ཕྱོགས་ ཀྱི་ མཐ་␣ར་ ཁྱབ་པ །"
 msgstr ""
-"Thunder of fine explanation spreads to the end of the four directions. "
+"Thunder of fine explanation spreads to the end of [the four] directions. "
 
 msgctxt "663ae388b19e4c7b8e870329964125cb"
 msgid "། ཚིག་དོན་ རྣམ་བཀྲ་␣འི་ གློག་ གི་ འཕྲེང་བ་ ཅན །"
