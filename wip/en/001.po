@@ -9551,7 +9551,7 @@ msgid ""
 msgstr ""
 "2.2.1.2.1. [The brief explanation.] [~]\n"
 "The brief explanation is as explained before. \n"
-"According to the base: pal, \"glorious\" means self-arising primordial wisdom, kuntu, \"all\" means in all three times changeless good intent of inseparable kayas and primordial wisdom, chagtselva, \"bowing\" means one will realize that purpose. So it says. "
+"According to the base: pal, \"glorious\" - self-arising primordial wisdom, kuntu, \"all\" - in all three times changeless good intent of inseparable kayas and primordial wisdom, chagtselva, \"bowing\" - one will realize that purpose. So it says. "
 
 msgctxt "857c55d1155045a2a4e99555c2fc5aa5"
 msgid ""
