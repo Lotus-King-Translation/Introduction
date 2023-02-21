@@ -9955,7 +9955,7 @@ msgstr ""
 
 msgctxt "ad9921ab5ff74c87acf193a75531ba7c"
 msgid "། བྱང་ཆུབ་ ལམ་བཟང་ གསལ་བ་␣ར་ བྱེད་པ་ ལ །"
-msgstr "To clarify the noble path of enlightenment "
+msgstr "To clarify the noble path of enlightenment,"
 
 msgctxt "a2bdb952cff3480b8f8071763aec5695"
 msgid "། ཚུལ་ འདི་ ཐེག་མཆོག་ སྙིང་པོ་␣འི་ རྣལ་འབྱོར་པ །"
