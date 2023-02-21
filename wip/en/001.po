@@ -9944,7 +9944,7 @@ msgstr "That, in the noble grove of happiness,"
 msgctxt "2853ca23e67b43e58f49dc1a8a6ca26c"
 msgid "། ཐོས་བསམ་ ཏིང་འཛིན་ མེ་ཏོག་ རྒྱུན་ཆགས་པ །"
 msgstr ""
-"Causes a continuity of the flowers of hearing, contemplating, and "
+"[Causes] a continuity of the flowers of hearing, contemplating, and "
 "concentration."
 
 msgctxt "8f6eb21490c045658180ca3f63ce691f"
