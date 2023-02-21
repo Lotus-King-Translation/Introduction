@@ -9622,7 +9622,7 @@ msgstr ""
 
 msgctxt "114f907b6b4744e289d0454d447195f9"
 msgid "། འགྲོ་ དྲུག་ དུས་ གནས་མ་ ལུས་ སྣང་ །"
-msgstr "2.2.1.3. Undertaking a vow"
+msgstr "2.2.1.3. Undertaking a vow."
 
 msgctxt "7cf1eb71b78442e383e0b17019336444"
 msgid "། ཞེས་ གསུངས་པ་ བཞིན་ ནོ །"
