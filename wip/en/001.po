@@ -9995,7 +9995,7 @@ msgstr "The teaching of the Sugata will flourish and spread."
 
 msgctxt "08fc3afd6205484fb714e56164d72159"
 msgid "། བཤེས་གཉེན་ མཆོག་ རྣམས་ སྐུ་ཚེ་རིང་ བར་ ཤོག"
-msgstr "May all the excellent teachers have long lives."
+msgstr "All the excellent teachers will have long lives."
 
 msgctxt "a48f4bc0517a4bd4acdb9a0ef5d4006f"
 msgid "། དམ་ཆོས་ མཆོག་ འདི་␣ས་ གཞན་དོན་ མཐའ་ ཡས་ ཤོག"
