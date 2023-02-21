@@ -6423,7 +6423,7 @@ msgstr "The secret teaching of all vidya mantras - Supreme Vidya Tantra."
 msgctxt "5f42f3ae3b604b5681c161af43863dc5"
 msgid "རིག་ སྔགས་ ཐམས་ཅད་ ཀྱི་ འདུལ་བ་ སྟོན་པ་ སུ་ སིད་␣ྡྷ ི་ ཀ་ར་␣འི་ རྒྱུད །"
 msgstr ""
-"The discipline teaching of all Vidya Mantras - the Complete Fulfillment of "
+"The discipline teaching of all vidya mantras - the Complete Fulfillment of "
 "All Deeds Tantra."
 
 msgctxt "1ac30a352cab4175ba148bdb8d7bfcba"
