@@ -9987,7 +9987,7 @@ msgstr "And cross over the fearsome desert of samsara. "
 
 msgctxt "f3b4a02ec80445369e20c67af73b7aa1"
 msgid "། ཐར་པ་␣འི་ གྲོང་ དུ་ དགའ་སྟོན་ འཕེལ་བ་␣ར་ ཤོག"
-msgstr "May the feast increase in the city of emancipation."
+msgstr "The feast will increase in the city of emancipation."
 
 msgctxt "af57e4003c584dd59f095a2cd533e9f5"
 msgid "། བདེ་གཤེགས་ བསྟན་པ་ དར་ ཞིང་ རྒྱས་པ་␣ར་ ཤོག"
