@@ -1750,7 +1750,7 @@ msgstr "He manifested the four meditative absorptions of the teacher."
 
 msgctxt "d7e5734263e647ee8da5f72a486e631d"
 msgid "། གང་ ཚེ་ སྟོབས་ བཅུ་ རིགས་པ་ གསུམ་པོ་ བརྙེས་ གྱུར་ ཚེ །"
-msgstr "At the time when he got ten powers and three knowledges,"
+msgstr "At the time when he got ten powers and three vidyas,"
 
 msgctxt "257b818b6cbc4e01b84532160977cfe2"
 msgid "། ཕྱོགས་ བཅུ་␣འི་ སངས་རྒྱས་ ཞིང་ མང་ བྱེ་བ་ གཡོས་པ་␣ར་ གྱུར །"
