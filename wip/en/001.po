@@ -3293,7 +3293,7 @@ msgid ""
 "། དགོས་པ་ སྔར་བཞིན་ ལ་␣ས་ ཁྱད་པར་ དུ་ སྐད་ གཞན་ ལ་མོ་␣ས་པ་␣འི་ གདུལ་བྱ་ "
 "རྣམས་ ཚེགས་ ཆུང་ངུ་␣ས་ རྟོགས་པ་␣ར་ བྱ་␣འོ །"
 msgstr ""
-"The purpose was the same as before and especially to make the doctrine "
+"The need was the same as before and especially to make the doctrine "
 "understood with the smallest difficulty by those disciples who spoke other "
 "languages."
 
