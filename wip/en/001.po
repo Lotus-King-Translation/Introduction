@@ -2712,7 +2712,7 @@ msgstr ""
 
 msgctxt "fb59a184859d42b8980fecf03b9f2ace"
 msgid "། དགོས་པ་ བསལ་ བྱ་ བསྡུས་ ཚུལ་ གཙོ །"
-msgstr "Purpose, issue, and the main compiler -"
+msgstr "The need, issue, and the main compiler -"
 
 msgctxt "6c42de4f26ad4bdf8d4ee20f9b46edac"
 msgid "། རྣམ་པ་ དགུ་␣ར་ ནི་ མཁས་ རྣམས་ བཞེད །"
