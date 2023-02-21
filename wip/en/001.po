@@ -9528,7 +9528,7 @@ msgstr ""
 msgctxt "e37760ebf8cd4142a47afb5a29b18cf0"
 msgid ""
 "། གང་ ལ་ མཚན་ དུ་ བཏགས་པ་ ལ །  བསམ་གཏན་ ངལ་གསོ་ ནི་ དོན་ གྱི་ ཆ་ ནས་ བཏགས །"
-msgstr "2.2.1.1.3. How it was named"
+msgstr "2.2.1.1.3. How it was named."
 
 msgctxt "ef6f7ed6da804dfd9a001f9e9d47f8b2"
 msgid "ཤིང་རྟ་ རྣམ་དག་ ནི་ དཔེ་ དོན་ ཚོགས་པ་ ལ་བཏགས་པ་␣འོ །"
