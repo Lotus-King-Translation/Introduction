@@ -10003,7 +10003,8 @@ msgstr "This supreme doctrine will bring infinite benefits to others."
 
 msgctxt "eb2ec18fc9774db39412f88fbce750bb"
 msgid "། ཕྱོགས་ དུས་ ཀུན་ དུ་ བཀྲ་ཤིས་ བདེ་ལེགས་ ཤོག"
-msgstr "May there be auspicious happiness and goodness in all space and time."
+msgstr ""
+"There will be auspicious happiness and goodness in all space and time."
 
 msgctxt "10229153d9e84c91804acfb36c0e644b"
 msgid ""
