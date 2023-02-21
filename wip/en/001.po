@@ -9975,7 +9975,7 @@ msgstr "In the place known as Ogyen fortress, was written down. "
 
 msgctxt "356615f1861b4ba080ad0d2c1a71ab4e"
 msgid "། དགེ་བ་ འདི་ ཡིས་ བདག་ དང་ འགྲོ་བ་ ཀུན །"
-msgstr "By these merits may self and all the migrators "
+msgstr "By these merits self and all the migrators "
 
 msgctxt "39301a1a17f04e70972c26a80a11ba69"
 msgid "། དམ་ཆོས་ རིན་ཆེན་ ཤིང་རྟ་ མཆོག་ ཞུགས་ ཏེ །"
