@@ -9684,7 +9684,7 @@ msgctxt "9c40a2ab57f448e6ac4b8a64a68b1dee"
 msgid ""
 "། དང་པོ་ ལ །  མཚན་ བསྒྱུར་བ །  བཤད་པ །  གང་ ལ་ མཚན་ དུ་ བཏགས་པ་ དང་ གསུམ་ "
 "ལ་␣ས །"
-msgstr "2.3.1.1.1. The translation of the title"
+msgstr "2.3.1.1.1. [The translation of the title.]"
 
 msgctxt "9bb2250d67c4441b8783e0b9694bd27c"
 msgid ""
