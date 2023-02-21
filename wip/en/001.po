@@ -9931,8 +9931,7 @@ msgstr ""
 
 msgctxt "663ae388b19e4c7b8e870329964125cb"
 msgid "། ཚིག་དོན་ རྣམ་བཀྲ་␣འི་ གློག་ གི་ འཕྲེང་བ་ ཅན །"
-msgstr ""
-"The meaning of the words is like a very beautiful string of lightning."
+msgstr "The meaning of the words is like a very shining string of lightning."
 
 msgctxt "c9aa5d0ac63547969904fcc83068a8d6"
 msgid "། གཞན་དོན་ བྱེད་པ་ མཐའ་ ཡས་ ཆ་␣ར་ ཆེན་ འབེབས །"
