@@ -6414,7 +6414,7 @@ msgctxt "55f3fbc78761478eb40b12d5e222231d"
 msgid ""
 "རིག་ སྔགས་ ཐམས་ཅད་ ཀྱི་ དབང་ བསྐུར་བ་ ཕྱག་ ན་ རྡོ་རྗེ་ དབང་ བསྐུར་བ་␣འི་ "
 "རྒྱུད །"
-msgstr "The empowerment of all Vidya Mantras - Vajrapani Empowerment Tantra."
+msgstr "The empowerment of all vidya mantras - Vajrapani Empowerment Tantra."
 
 msgctxt "71360c9cea644f55a5f125394ff29986"
 msgid "རིག་ སྔགས་ ཐམས་ཅད་ ཀྱི་ གསང་བ་ བསྟན་པ་ རིག་པ་ མཆོག་ གི་ རྒྱུད །"
