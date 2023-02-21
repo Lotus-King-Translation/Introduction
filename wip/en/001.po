@@ -9999,7 +9999,7 @@ msgstr "All the excellent teachers will have long lives."
 
 msgctxt "a48f4bc0517a4bd4acdb9a0ef5d4006f"
 msgid "། དམ་ཆོས་ མཆོག་ འདི་␣ས་ གཞན་དོན་ མཐའ་ ཡས་ ཤོག"
-msgstr "May this supreme doctrine bring infinite benefits to others."
+msgstr "This supreme doctrine will bring infinite benefits to others."
 
 msgctxt "eb2ec18fc9774db39412f88fbce750bb"
 msgid "། ཕྱོགས་ དུས་ ཀུན་ དུ་ བཀྲ་ཤིས་ བདེ་ལེགས་ ཤོག"
