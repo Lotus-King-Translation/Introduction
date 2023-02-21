@@ -6408,7 +6408,7 @@ msgstr "1.1.2.2.3.1.1. Six general Kriya Tantras."
 
 msgctxt "e6a07f26c8f942ca85b24cf3b32ffd60"
 msgid "རིག་ སྔགས་ ཐམས་ཅད་ ཀྱི་ ཁོག་ དབུབ་པ་ དཔུང་པ་ བཟང་པོ་␣འི་ རྒྱུད །"
-msgstr "The structure of all Vidya Mantras - the Noble Shoulder Tantra."
+msgstr "The structure of all vidya mantras - the Noble Shoulder Tantra."
 
 msgctxt "55f3fbc78761478eb40b12d5e222231d"
 msgid ""
