@@ -9492,7 +9492,7 @@ msgstr "In the Condensed Prajnaparamita Ghatas:"
 
 msgctxt "78401a982f68404b97cb5464a9f343e4"
 msgid "དེ་ གང་ ཞོན་ ནས་ སེམས་ཅན་ ཐམས་ཅད་ མྱ་ངན་ ཟློ །"
-msgstr "Whoever rides it, all of them will pass into Nirvana. "
+msgstr "Whoever rides it, all of the sentient beings will pass into Nirvana. "
 
 msgctxt "78c7f7a248ae47fb9a8b3c81c664774b"
 msgid "། ཞེས་ གསུངས་པ་ བཞིན་ ནོ །"
