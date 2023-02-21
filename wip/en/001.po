@@ -9959,8 +9959,7 @@ msgstr "To clarify the noble path of enlightenment,"
 
 msgctxt "a2bdb952cff3480b8f8071763aec5695"
 msgid "། ཚུལ་ འདི་ ཐེག་མཆོག་ སྙིང་པོ་␣འི་ རྣལ་འབྱོར་པ །"
-msgstr ""
-"This shastra, the supreme vehicle, [was composed] by the essential yogi,"
+msgstr "This shastra, the supreme vehicle, by the essential yogi,"
 
 msgctxt "6c4a5d8005214fdfa9add3abe8b38721"
 msgid "། བློ་ དང་ ཐོས་པ་␣འི་ འདབ་སྟོང་ རྒྱས་པ་ དེ་␣ས །"
