@@ -3072,7 +3072,7 @@ msgid ""
 "སྒྲོ་འདོགས་པ་ དང་ །  སྐུར་བ་ འདེབས་པ་ སྤངས་ ནས་ སངས་རྒྱས་ ཀྱི་ བསྟན་པ་ "
 "ཡུན་རིང་ དུ་ གནས་པ་␣ར་ བྱ་བ་␣འི་ ཕྱིར་ རོ །"
 msgstr ""
-"The purpose was to abandon the exaggeration and the denial by the future "
+"The need was to abandon the exaggeration and the denial by the future "
 "disciples who won’t get spiritual teachings and manifest realization, so "
 "buddhadharma can exist for a long time."
 
