@@ -5326,7 +5326,7 @@ msgid ""
 "། ཐུགས་ ཀྱི་ རྩ་རྒྱུད་ རིག་པ་ མཆོག  ། བཤད་རྒྱུད་ མི་ འཁྲུགས་པ་␣འི་ གཟུངས་ "
 "ལ་སོགས་པ་␣འོ །"
 msgstr ""
-"The Root Tantra of Mind -Supreme Knowledge Tantra, the Explanatory Tantra - "
+"The Root Tantra of Mind -Supreme Vidya Tantra, the Explanatory Tantra - "
 "Dharani of Akshobya, and so on."
 
 msgctxt "a5cbff18abb94d7db341fc39f7c291ff"
