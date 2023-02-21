@@ -9667,7 +9667,7 @@ msgstr ""
 "It has three parts:\n"
 "• The title,\n"
 "• Expression of prostration with homage,\n"
-"• Taking the vow to compose the text"
+"• Taking the vow to compose."
 
 msgctxt "2215edd858154b94b248ad68c48327f9"
 msgid ""
