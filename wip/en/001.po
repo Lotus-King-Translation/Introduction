@@ -5778,7 +5778,7 @@ msgstr "[he will obtain] blessings from Avalokiteshvara. "
 
 msgctxt "838be1108c6443aabc2b14e799fd270f"
 msgid "རིག་པ་␣འི་ སྐྱེས་བུ་ ཐུབ་པ་ དྲུག"
-msgstr "The rigpa beings, the six Munis, "
+msgstr "The vidya beings, the six Munis, "
 
 msgctxt "810ff3081baf48f2b4b9509e18b8d334"
 msgid ""
