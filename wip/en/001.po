@@ -6571,7 +6571,7 @@ msgid ""
 msgstr ""
 "The Enlightened Quality Tantras - Secret Goddess Tantra, the Enlightened "
 "Activity Tantra - Gathering of Vidyadharas Tantra, Heruka Tantra of General "
-"Accomplishment of Knowledge Mantras,"
+"Accomplishment of Vidya Mantras,"
 
 msgctxt "e6c76e4ea6c44d38a4e05d953692df57"
 msgid ""
