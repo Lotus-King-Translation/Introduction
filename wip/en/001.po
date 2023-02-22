@@ -4197,9 +4197,7 @@ msgstr "• The way of naming it the Resultant Yana,"
 
 msgctxt "3a2413f1f2c24d5c9cf186a07d32ee2d"
 msgid "བཞི་␣ར་ དབྱེ་ ཚུལ་ དང་ གསུམ་ ལ་␣ས །"
-msgstr ""
-"• The way of dividing into four.\n"
-"Out of three -"
+msgstr "• The way of dividing into four."
 
 msgctxt "9376e31b74914fd09cd3769bdd04b8e5"
 msgid ""
