@@ -4450,9 +4450,7 @@ msgstr ""
 
 msgctxt "c533e1279792401ead4509b8de924089"
 msgid "དུས་ མྱུར་བ་ ལ་ ལྟོས་ ནས་ འབྲས་བུ་␣འི་ ཐེག་པ་ ལ་ བཞག་ སྟེ །"
-msgstr ""
-"1.1.2.1.2.2.1. It is named the Resultant Yana because of being associated "
-"with quick time."
+msgstr "1.1.2.1.2.2.1. It is named the Resultant Yana because of being quick."
 
 msgctxt "6666013b17964c71989d8c3cec312288"
 msgid "དཔེར་ན་ མཚོན་ རྣོ་རྟུལ་ གཉིས་ ཀྱིས་ ཤིང་ ལྟ་བུ་ ཞིག་ གཅོད་པ་ ལ་␣ས །"
