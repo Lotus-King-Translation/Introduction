@@ -3422,7 +3422,7 @@ msgid ""
 " འདས་ ནས་ ལོ་ སུམ་བརྒྱ་ ན་␣འོ །"
 msgstr ""
 "1.1.1.2.3. The third council. [~]\n"
-"Out of nine parts:"
+"The nine [main points] at [the third council]:"
 
 msgctxt "7c033b6b0f624840b1815ab961903b14"
 msgid ""
