@@ -6396,7 +6396,7 @@ msgid "དང་པོ་ ཀྲཱི་ ཡ་ལ་␣འང་ སྤྱི�
 msgstr ""
 "1.1.2.2.3.1. Kriya Tantra. [~]\n"
 "It has two sections - general and specific.\n"
-"Out of two [sections}:"
+"The two [sections of Kriya Tantra}:"
 
 msgctxt "6235d130e2e74ff2947faa8969873a31"
 msgid "ཀྲཱི་ ཡ་ སྤྱི་␣འི་ རྒྱུད་ དྲུག་ ལ །"
