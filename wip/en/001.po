@@ -3693,8 +3693,7 @@ msgstr ""
 
 msgctxt "ef0e8ed034bd474fa59e1cb52faff21d"
 msgid "དང་པོ་ ལ་␣འང་ རབ་ ཆོས་ཉིད་ ཀྱི་ བདེན་པ་ མངོན་སུམ་ དུ་ རྟོགས་པ །"
-msgstr ""
-"1.1.1.3.1. Out of three, the first one, [the definition of the master]."
+msgstr "1.1.1.3.1. [The definition of the master]."
 
 msgctxt "725f790c067b4dacac4741cbeeedabff"
 msgid "འབྲིང་ ཡི་དམ་ ལྷ་␣འི་ ཞལ་ མཐོང་ ཞིང་ གནང་བ་ ཐོབ་པ །"
