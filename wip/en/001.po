@@ -3247,7 +3247,7 @@ msgstr "“We will stay here as long as buddhadharma lasts.”"
 msgctxt "815f00cb4841442aac8a568b73b6f88f"
 msgid "། བསྡུ་བ་ གཉིས་པ་ ལ་ ཡང་ དགུ་ ལ་␣ས །"
 msgstr ""
-"1.1.1.2.2. [The second council.] [~] The nine main points at the second "
+"1.1.1.2.2. [The second council.] [~] The nine [main points] at the second "
 "council:"
 
 msgctxt "e5258f120fa3463faba1b07a18868425"
