@@ -8653,7 +8653,7 @@ msgstr ""
 
 msgctxt "31bcc26ea7974b1c954397dd8b78b9c8"
 msgid "། ལན་ ལ་ གཉིས་ ལ་␣ས །"
-msgstr "Out of two parts of reply:"
+msgstr "The two parts of reply:"
 
 msgctxt "b35499ce48b14e2faf6818ac96a41337"
 msgid ""
