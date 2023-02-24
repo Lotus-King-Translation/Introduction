@@ -9865,7 +9865,7 @@ msgstr ""
 
 msgctxt "e8fabcf5bec649af82dda9f7cee88a4a"
 msgid "། སྐྱེས་བུ་ དམ་པ་ ཁུར་ ལྕི་ ཁུར་བ་ དང་ །"
-msgstr "The holy being carries his responsibilities"
+msgstr "The holy being carries responsibilities"
 
 msgctxt "b77c1dda93fe4db7a6e4ba9736dec988"
 msgid "། ཉམ་ང་␣འི་ གནས་ སུ་ ནམ་ཡང་ འདོར་ མི་ བྱེད །"
