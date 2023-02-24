@@ -7632,7 +7632,7 @@ msgctxt "dd5cd6782c4b41759397e5c1b13cf2da"
 msgid "། ཡོན་ཏན་ བརྩོན་ བྱས་ ལྷག་པར་ ལུང་ གིས་ ཕྱུག"
 msgstr ""
 "The spiritual friend is self-controlled, tranquil, and fully pacified.\n"
-"He has good qualities, applies effort, and has an abundance of transmissions."
+"He has good qualities, applies effort, and has an abundance of scriptural authorizations."
 
 msgctxt "e733b26698ee47c7bd30682b3efba119"
 msgid "། རྟོགས་དཀ་␣འི་ དེ་ཉིད་ རབ་ཏུ་ སྨྲ་མཁས་ ལྡན །"
