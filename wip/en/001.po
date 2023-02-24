@@ -3048,7 +3048,7 @@ msgctxt "95b3659eaef24ccc8bff8d9e829e58d3"
 msgid ""
 "འདུལ་བ་ ལུང་སྡེ་བཞི་ འབུམ་ཕྲག་ གི་ ཚད་ དུ་ ལོངས་པ་ རྣམས་ ཁ་ཏོན་ དུ་ གསུངས་པ་"
 " དང་ །"
-msgstr "four sections of the vinaya scriptures were recited 100000 times. "
+msgstr "four sections of the vinaya agama were recited 100000 times. "
 
 msgctxt "140c6f445cc74f8d992973b75cf93c96"
 msgid "དེ་བཞིན་ དུ་ ཀུན་དགའ་ བོས་ མདོ་སྡེ་ དང་ །"
