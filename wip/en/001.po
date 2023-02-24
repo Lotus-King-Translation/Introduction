@@ -8052,7 +8052,7 @@ msgstr ""
 
 msgctxt "29a33d51106a4e62bbf7a91d3d3d4954"
 msgid "རྒྱུད་བླ་མ་ ལ་␣ས །"
-msgstr "From the Highest Continuum:"
+msgstr "From the Highest Tantra:"
 
 msgctxt "8f9e568a66854c14aaeee065d6477d91"
 msgid "གང་ ཕྱིར་ འདི་ ནི་ ཤེས་རབ་ མཆོག་ ཡིན་ དེ་ ཡི་ རྒྱུ་ ནི་ ཐོས་པ་ ཡིན །"
