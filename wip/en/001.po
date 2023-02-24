@@ -9961,7 +9961,7 @@ msgstr "That with vast one-thousand petals of rational mind and hearing,"
 
 msgctxt "8a776cc4c1b44efe9e13091d5744384a"
 msgid "། གངས་རི་ ཐོད་ དཀ་␣ར་ རིན་ཆེན་ སྙིང་པོ་␣འི་ མགུལ །"
-msgstr "In the White Skull Mountain, the neck of Earth,"
+msgstr "In the Thoekar Snow Mountain, the neck of Earth,"
 
 msgctxt "74c5929325534e19aa160bd5f0310b30"
 msgid "། ཨོ་རྒྱན་ རྫོང་ ཞེས་ བྱ་བ་␣འི་ གནས་ སུ་ བཀོད །"
