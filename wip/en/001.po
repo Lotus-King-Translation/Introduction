@@ -416,7 +416,7 @@ msgstr ""
 
 msgctxt "914211dec3ee4848b172713a75dd60f8"
 msgid "རྒྱུད་བླ་མ་ ལ་␣ས །"
-msgstr "From the Highest Continuum:"
+msgstr "From the Highest Tantra:"
 
 msgctxt "626334d65c7441369400e9da6f4b578a"
 msgid "ཆོས་ ཀྱི་ སྐུ་ ལས་མ་ གཡོས་པ་␣ར །"
