@@ -6771,7 +6771,7 @@ msgstr ""
 
 msgctxt "2c099cfa789d482284560c5497bd0578"
 msgid "ལུང་ བམ་པོ་ བཅོ་བརྒྱད་ གདམས་པ་ མན་ངག་ གི་ རྒྱུད་ ལ །"
-msgstr "Scripture in eighteen chapters - Oral Instruction Tantras -"
+msgstr "Agama in eighteen bundles - Oral Instruction Tantras -"
 
 msgctxt "8a4a8dfaa6304a5a927d301690b14cac"
 msgid ""
