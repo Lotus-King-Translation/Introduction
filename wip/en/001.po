@@ -6088,7 +6088,7 @@ msgstr ""
 "For the ones having consciousness - Yogayana.\n"
 "The teaching for the three big ones:\n"
 "For the ones [at the stage] outside the mind - Mahayogayana,\n"
-"For the ones having the essence of the mind - Anuttarayogayana,\n"
+"For སེམས་བཅུད་ཅན - Anuttarayogayana,\n"
 "For the supreme, excellent, secret ones - Atiyogayana."
 
 msgctxt "f2983b0ea4c7441ca078d26fdc6b2239"
