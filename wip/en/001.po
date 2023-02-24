@@ -6548,7 +6548,7 @@ msgid ""
 "། རྩ་བ་␣འི་ རྒྱུད་ ལ །  ཐིག་ལེ་ འདུས་པ་␣འི་ རྒྱུད །  སྒྱུ་མ་ ཆེན་པོ་␣འི་ "
 "རྒྱུད །  ཟླ་ གསང་ ཐིག་ལེ་␣འི་ རྒྱུད །  རྡོ་རྗེ་ གདན་ བཞི་␣འི་ རྒྱུད་ དོ །"
 msgstr ""
-"The six Sutras - Illusory Emanation Sutra - Scripture of the Wisdom Wheel of Awesome Lightning, Kilaya Creator of Ashes, Scripture of the Play of the Charnel Ground-Cuckoo, Scripture of the Compendium of Vidya, Scripture of the Compendium of the Hidden Meaning, Sutra of Pure Syllables.\n"
+"The six Sutras - Illusory Emanation Sutra - Sutra of the Wisdom Wheel of Awesome Lightning, Kilaya Creator of Ashes [Sutra], Sutra of the Play of the Charnel Ground-Cuckoo, Sutra of the Compendium of Vidya, Sutra of the Compendium of the Hidden Meaning, Sutra of Pure Syllables.\n"
 "[Anuttarayoga] Root Tantras - Gathering of the Bindu Tantra, Great Illusion Tantra, Secret Moon Bindu Tantra, Four Vajra Seats Tantra."
 
 msgctxt "e55e30f4754143cebf384208a57c3b05"
