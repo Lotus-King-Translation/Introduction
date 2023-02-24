@@ -9908,7 +9908,7 @@ msgstr "Is profound and extensive, the meaning is clear and pleasant,"
 
 msgctxt "449085e7f81343b5910a8d2a735dc402"
 msgid "། ཐེག་མཆོག་ དམ་པ་ རབ་ཏུ་ མཛེས་བྱེད་པ །"
-msgstr "{I} makes excellent supreme vehicle graceful,"
+msgstr "[It] makes excellent supreme vehicle graceful,"
 
 msgctxt "3e8c865648744135a5cc3bb37f88d99b"
 msgid "། མེ་ཏོག་ཕྲེང་བ་ མ་ བརྙིངས་ གསལ་བ་␣ར་ སྤེལ །"
