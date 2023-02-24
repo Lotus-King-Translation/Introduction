@@ -5638,7 +5638,7 @@ msgstr "• The intrinsic nature of the Mantra he taught,"
 
 msgctxt "a137888662974c208f835b5dddb89b1a"
 msgid "ཤེས་བྱེད་ རྒྱུད་སྡེ་␣འི་ རྣམ་ གྲངས་ སོ །"
-msgstr "• The enumerations of sections of the Knowledge Tantra."
+msgstr "• The enumerations of sections of the ཤེས་བྱེད Tantra."
 
 msgctxt "5efe03046851472d8dac46f0fb83ca21"
 msgid "། དང་པོ་ ནི་ ཐུན་མོང་པ་ ཁ་ཅིག་ དང་པོ་␣ར་ སེམས་བསྐྱེད །"
