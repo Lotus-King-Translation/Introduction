@@ -5705,7 +5705,7 @@ msgstr "At night and early morning, at this very time"
 
 msgctxt "45476dad61994342a975494cc239bc0d"
 msgid "། ཉི་ཟླ་ ཟ་བ་␣འི་ དབང་ བྱིན་ ནས །"
-msgstr "The power of ཉི་ཟླ་ ཟ་བ་ was given. Then,"
+msgstr "A great power was given. Then,"
 
 msgctxt "a90ba76b7d5242b6b9ae8e0b566ee7f7"
 msgid "། རོལ་པ་␣འི་ ཀ་ར་ བསྟན་པ་ ཡིས །"
