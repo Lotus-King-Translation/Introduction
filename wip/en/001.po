@@ -3867,7 +3867,7 @@ msgid ""
 "སློབ་དཔོན་ བི་མ་ལ་␣ས་ ལུང་སྡེ་བཞི་␣འི་ གནས་ སྟོན་པ་ དགའ་བ་ བསྐྱེད་པ་ དང་ །  "
 "གླང་པོ་ཆེ་␣འི་ ཆུ་ འཐུང་ ལ་སོགས་པ་ དུ་མ་ མཛད་པ་ དང་ །"
 msgstr ""
-"Master Vimalamitra composed the Four Sections of Agamas of Vinaya, Elephant "
+"Master Vimalamitra composed the Four Sections of Vinaya Agama, Elephant "
 "Drinking the Water, and many others. "
 
 msgctxt "dca6bdbeeea74d6da408a8596ad649fd"
