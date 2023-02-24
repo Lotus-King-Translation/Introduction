@@ -7146,7 +7146,7 @@ msgid ""
 "ཆེན་པོ་␣འི་ ཆོས་མ་ ཐོབ་པ་␣ས །  ཁམས་ བདེ་བ་␣ར་ གཤེགས་པ་␣འི་ སྙིང་པོ་ "
 "ལ་སོགས་པ་ ཀུན་ ནས་ སྒོ་␣འི་ ཆོས་ ཀྱི་ རྣམ་ གྲངས་ བལྟ་བ་ ལ་ མི་དབང་བ་␣འི་ "
 "ཕྱིར་ ཏེ །"
-msgstr "From the Commentary on the Highest Continuum:"
+msgstr "From the Commentary on the Highest Tantra:"
 
 msgctxt "6db063753d09443daac6e4246fe85d53"
 msgid ""
