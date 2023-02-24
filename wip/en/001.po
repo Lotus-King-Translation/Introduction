@@ -8429,7 +8429,7 @@ msgid ""
 "ཡིད་ གསུམ་ དལ་བར་ འཇོག་ སྟེ་ ངལ་གསོ་བ་ བཞིན་ ནོ །"
 msgstr ""
 "The visitors relax, self-settling in their own resting places. Therefore, "
-"the body, speech, and mind དལ་བར་འཇོག་. It is similar to resting. "
+"the body, speech, and mind are kept calm་. It is similar to resting. "
 
 msgctxt "ac630c6c07f6481096b82a6479fb071f"
 msgid ""
