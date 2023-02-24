@@ -6376,7 +6376,7 @@ msgstr ""
 msgctxt "61adca5e36a14bf6831a70328f2745b9"
 msgid "། ལུང་ ཨ་ནུ་ ཡོ་ག་ ནི་ ཆོས་ རྣམས་ ཀྱི་ ལམ་ ལྟ་བུ་␣འོ །"
 msgstr ""
-"The Anuttarayoga [Yana] of Agama, is like the path for dharmas.\n"
+"The Agama, Anuttarayoga [Yana], is like the path for dharmas.\n"
 "The completion [stage], Atiyoga [Tantra], is like the result of dharmas."
 
 msgctxt "a0ae618a696b48f2893919683de3af26"
