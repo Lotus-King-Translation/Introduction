@@ -9218,7 +9218,7 @@ msgstr "Chagtselwa - \"bowing\" means offering through respect from three doors.
 
 msgctxt "7bbb83c5183747dcb7a659fd3f1dcd63"
 msgid "རྣམ་འགྲེལ་ དུ །"
-msgstr "In the Complete Commentary on Valid Cognition:"
+msgstr "In the Complete Commentary [on Valid Cognition]:"
 
 msgctxt "189f0e1e592e43c1895ebd4e0b58cee5"
 msgid "རྟོག་པ་␣འི་ དྲ་བ་ རྣམ་ བསལ་ ཅིང་ །"
