@@ -6389,7 +6389,7 @@ msgstr "It was said so."
 msgctxt "685b6b443a2144bf8a8596488c2ce78a"
 msgid "། གསུམ་པ་ ཤེས་བྱེད་ རྒྱུད་སྡེ་␣འི་ རྣམ་ གྲངས་ དགོད་པ་ ལ་ དྲུག་ ལ་␣ས །"
 msgstr ""
-"1.1.2.2.3. The enumerations of sections of the Knowledge Tantras. [~]\n"
+"1.1.2.2.3. The enumerations of sections of the ཤེས་བྱེད Tantras. [~]\n"
 "They are arranged into six:"
 
 msgctxt "b093f506d4e947db99155229ef4e3530"
