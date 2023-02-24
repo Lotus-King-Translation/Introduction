@@ -5256,7 +5256,7 @@ msgstr "It was said so."
 
 msgctxt "d4f12b88c39843feacc04e561ae2dbad"
 msgid "། གསུམ་པ་ ཤེས་བྱེད་ རྒྱུད་སྡེ་␣འི་ རྣམ་ གྲངས་ ལ་ བཞི་ ལ་␣ས །"
-msgstr "Out of four types of Knowledge Tantra section,"
+msgstr "Out of four types of ཤེས་བྱེད Tantra section,"
 
 msgctxt "cbc8a1bc24454e3fa49469b9d64adb28"
 msgid "དང་པོ་ བྱ་བ་␣འི་ རྒྱུད་ ལ་␣འང་ ཆིངས་ གསུམ་ ལ་␣ས །"
