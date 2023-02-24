@@ -7659,7 +7659,7 @@ msgstr "the good qualities and diligence are great. "
 
 msgctxt "14e3e7c8ca004f28b4299fb2c7da7162"
 msgid "ཐོས་པ་ ཆེ་བ་ ལ་␣ས་ ཁྱད་པར་ དུ་ ལུང་ གི་ གནས་ ལ་ མཁས་པ །"
-msgstr "He is very learned and especially skillful in reading transmission. "
+msgstr "He is very learned and especially knowledgebale in agama."
 
 msgctxt "c725bc189f3f44d5acbf4102e200c9f5"
 msgid "ཟབ་མོ་␣འི་ དོན་ སྟོན་པ་ ལ་ མཁས་ ཤིང་ སྙིང་རྗེ་ ཆེ་བ །"
