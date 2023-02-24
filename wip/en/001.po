@@ -7819,7 +7819,7 @@ msgstr ""
 
 msgctxt "3b3867f193ce43f6995515d8f7db7d41"
 msgid "། འཕགས་པ་ ཡོན་ཏན་ རིན་པོ་ཆེ་ ཡང་དག་པ་␣ར་ སྡུད་པ་␣འི་ མདོ་ ལ་␣ས །"
-msgstr "From the Sutra of Thoroughly Gathered Precious Good Qualities:"
+msgstr "From The Authentic Condensed Precious Good Qualities Sutra:"
 
 msgctxt "b971efb0cf98440c9caa91a5827f3da4"
 msgid "དགའ་ དང་ གུས་ དང་ དད་པ་␣འི་ མཆོག་ ནི་ ཉེར་ གཞག་ སྟེ །"
