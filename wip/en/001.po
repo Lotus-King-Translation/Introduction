@@ -130,7 +130,7 @@ msgid ""
 "དང་པོ་ སངས་རྒྱས་ ཀྱི་ བྱོན་ ཚུལ །  བར་ དུ་ བཀ་␣འི་ བསྡུས་ ཚུལ །  ཐ་མ་␣ར་ "
 "བསྟན་བཅོས་ ཀྱི་ མཛད་ ཚུལ་ ལོ །"
 msgstr ""
-"In the beginning - the way the Buddha arrived. In the middle - the way of "
+"In the beginning - the way Buddha arrived. In the middle - the way of "
 "collecting the words [of Buddha]. In the end - the way of composing the "
 "shastra."
 
