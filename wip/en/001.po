@@ -1011,7 +1011,7 @@ msgid ""
 "བཟུང་ སྟེ་ ཤིང་རྟ་ ལས་མ་ བབས་ བཞིན་ དུ་ འཕངས་པ་␣ས །  ར་བ་ བདུན་ འདས་ ཏེ་ "
 "ལྗོངས་ ཞིག་ ཏུ་ འཆགས་པ་ ལ་␣ས །"
 msgstr ""
-"Devadatta became angry and hit an elephant with the palm of his hand. Nanda then threw the dead body of the elephant, away from the entrance. The Buddha held the elephant’s tail with his big toe, and without stepping down from the chariot, he threw the elephant away beyond the seven fences and it ended up in another province.\n"
+"Devadatta was angry and hit an elephant with the palm of his hand. Nanda then threw the dead body of the elephant, away from the entrance. The Buddha held the elephant’s tail with his big toe, and without stepping down from the chariot, he threw the elephant away beyond the seven fences and it ended up in another province.\n"
 "Gods praised:"
 
 msgctxt "208ff09cbef1498ba2c72f6846ee4fc4"
