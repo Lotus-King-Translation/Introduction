@@ -944,7 +944,7 @@ msgstr ""
 
 msgctxt "5734f58d6d87462a88b36da312c35d5a"
 msgid "། བསོད་ནམས་ མཆོག་ གི་ ཆོས་ ཀྱི་ མཛོད་ འདི་ ནི །"
-msgstr "This treasury of the dharma of the best merits"
+msgstr "This treasury of dharma of the best merits"
 
 msgctxt "0c04847b86c54f309e6b0d23435de525"
 msgid "། ཉེས་ལས་ རྣམ་པ་␣ར་ རྒྱལ་ ནས་ སངས་རྒྱས་ འགྱུར །"
