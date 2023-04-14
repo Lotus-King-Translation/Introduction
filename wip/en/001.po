@@ -1663,7 +1663,7 @@ msgstr "The gathering of an army of demons won't harm it."
 
 msgctxt "74d8de1b01a546d6a4d7b6653248b464"
 msgid "། བྱམས་པ་␣འི་ ཟེར་ གྱིས་ བདུད་ ཀྱི་ སྒྱུ་ རྣམས་ བཏུལ །"
-msgstr "Ray of loving-kindness tames illusions of maras"
+msgstr "Ray of loving-kindness tamed illusions of maras"
 
 msgctxt "9ef894f1d272458b859a42f4e3a9118d"
 msgid "། མཚོན་ཆ་ འཕངས་པ་ མེ་ཏོག་ ཉིད་ དུ་ གྱུར །"
