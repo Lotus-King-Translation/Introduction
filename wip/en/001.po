@@ -1659,7 +1659,7 @@ msgstr "The mind is excellent, like space."
 
 msgctxt "53eb5f112755493e966ded1a51df370b"
 msgid "། གཡོན་ཅན་ དཔུང་ བཅས་ ཚོགས་ ཀྱིས་ བརྫི་བ་ མིན །"
-msgstr "The gathering of an army of demons cannot harm it."
+msgstr "The gathering of an army of demons won't harm it."
 
 msgctxt "74d8de1b01a546d6a4d7b6653248b464"
 msgid "། བྱམས་པ་␣འི་ ཟེར་ གྱིས་ བདུད་ ཀྱི་ སྒྱུ་ རྣམས་ བཏུལ །"
