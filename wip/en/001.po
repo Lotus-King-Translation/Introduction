@@ -1667,7 +1667,7 @@ msgstr "Ray of loving-kindness tamed illusions of maras"
 
 msgctxt "9ef894f1d272458b859a42f4e3a9118d"
 msgid "། མཚོན་ཆ་ འཕངས་པ་ མེ་ཏོག་ ཉིད་ དུ་ གྱུར །"
-msgstr "And transforms thrown weapons into flowers."
+msgstr "And transformed thrown weapons into flowers."
 
 msgctxt "e63b7920618643e0937bf55b9e4c3027"
 msgid "། ཅེས་ སོ །"
