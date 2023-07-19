@@ -1749,7 +1749,7 @@ msgstr "He manifested the four meditative absorptions of the teacher."
 
 msgctxt "d7e5734263e647ee8da5f72a486e631d"
 msgid "། གང་ ཚེ་ སྟོབས་ བཅུ་ རིགས་པ་ གསུམ་པོ་ བརྙེས་ གྱུར་ ཚེ །"
-msgstr "At the time when he got ten powers and three rigpa,"
+msgstr "At the time when he got ten powers and three reasons,"
 
 msgctxt "257b818b6cbc4e01b84532160977cfe2"
 msgid "། ཕྱོགས་ བཅུ་␣འི་ སངས་རྒྱས་ ཞིང་ མང་ བྱེ་བ་ གཡོས་པ་␣ར་ གྱུར །"
@@ -3702,7 +3702,7 @@ msgstr ""
 
 msgctxt "8d40b9900eef4c82ace8fdd6c2a98637"
 msgid "ཐ་མ་ རིག་པ་␣འི་ གནས་ ལྔ་ ཤེས་པ་␣འོ །"
-msgstr "The inferior is the one who knows five fields of vidya. "
+msgstr "The inferior is the one who knows five fields of rigpa. "
 
 msgctxt "eeecf0756afb4c678688421bb4a59bb1"
 msgid ""
@@ -5321,7 +5321,7 @@ msgid ""
 "། ཐུགས་ ཀྱི་ རྩ་རྒྱུད་ རིག་པ་ མཆོག  ། བཤད་རྒྱུད་ མི་ འཁྲུགས་པ་␣འི་ གཟུངས་ "
 "ལ་སོགས་པ་␣འོ །"
 msgstr ""
-"The Root Tantra of Mind -Supreme Vidya Tantra, the Explanatory Tantra - "
+"The Root Tantra of Mind -Supreme Rigpa Tantra, the Explanatory Tantra - "
 "Dharani of Akshobya, and so on."
 
 msgctxt "a5cbff18abb94d7db341fc39f7c291ff"
