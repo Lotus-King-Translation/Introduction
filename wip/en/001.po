@@ -6415,7 +6415,7 @@ msgstr ""
 
 msgctxt "71360c9cea644f55a5f125394ff29986"
 msgid "རིག་ སྔགས་ ཐམས་ཅད་ ཀྱི་ གསང་བ་ བསྟན་པ་ རིག་པ་ མཆོག་ གི་ རྒྱུད །"
-msgstr "The secret teaching of all rigpa mantras - Supreme Rigpa Tantra."
+msgstr "The secret teaching of all knowledge mantras - Supreme Rigpa Tantra."
 
 msgctxt "5f42f3ae3b604b5681c161af43863dc5"
 msgid "རིག་ སྔགས་ ཐམས་ཅད་ ཀྱི་ འདུལ་བ་ སྟོན་པ་ སུ་ སིད་␣ྡྷ ི་ ཀ་ར་␣འི་ རྒྱུད །"
