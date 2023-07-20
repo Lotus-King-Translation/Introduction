@@ -5833,7 +5833,7 @@ msgid ""
 msgstr ""
 "Buddha of nirmanakaya is Vajradhara, the six munis. The dharma is Mahayana "
 "and Hinayana. The retinue is bodhisattvas, individualized beings, dakinis, "
-"rigpa-mantra-dharas, and other doubtful ones. "
+"knowledge mantra holders, and other doubtful ones. "
 
 msgctxt "53ce0e1a0f7249cc90b257d2ca2b977f"
 msgid ""
