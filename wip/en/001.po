@@ -2,11 +2,12 @@
 # Translators:
 # Mikko Kotila, 2023
 # Inga Pogosyan, 2023
+# Tenzin Norgyal, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Inga Pogosyan, 2023\n"
-"Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/162864/en/)\n"
+"Last-Translator: Tenzin Norgyal, 2024\n"
+"Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/164710/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5615,7 +5616,7 @@ msgid ""
 "གཉིས་ མེད་ ལ་སོགས་ ནི་ གནས་ མོད་ ཀྱི །  ཕ་མ་ གཉིས་ ལ་␣ས་ ཐ་དད་པ་␣འི་ གཉིས་ "
 "མེད་ གུད་ དུ་ཡོད་པ་ མ་ཡིན་པ་␣ས་ སྔ་མ་ བཞིན་ ནོ །"
 msgstr ""
-"ther than those two [Tantras] there is division of Non-Dual Tantra, "
+"Other than those two [Tantras] there is division of Non-Dual Tantra, "
 "རིགས་པ་␣ར་ མ་ མཐོང་ ལ. Each of these two [Tantras] has method and wisdom, "
 "development and completion, non-duality, and so on. However, different from "
 "Father and Mother [Tantras], Non-Dual [Tantra], is not separate from the "
